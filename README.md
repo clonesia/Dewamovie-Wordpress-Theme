@@ -1,4 +1,4 @@
-# Dewa Movie - Indoxxi Clone Wordpress Theme
+# Dewa Movie - Indoxxi Clone Wordpress Theme 
 Best Indoxxi clone theme for Wordpress
 
 ## Features
@@ -21,3 +21,9 @@ Best Indoxxi clone theme for Wordpress
 - Ads Inline Series Player
 
 [Get Indoxxi Clone Here](https://www.clonesia.com/item/dewamovie "Indoxxi Clone Wordpress Theme")
+
+
+## Changelog
+`v1.0.0`- `9 Dec 2019`
+
+> First Release
